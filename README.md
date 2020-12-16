@@ -11,5 +11,3 @@
 ## Student Info:
 1. Matric Number    : 259265
 2. Name : Nasuha binti Shamsull Naim
-3. Photo :<img src="https://github.com/STIW3054-A192/stiw3054-issues-nasuhashamsullnaim/blob/master/images/Nasuha.jpg" width="500"/> 
-4. Other related info (if any)
